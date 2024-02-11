@@ -1,0 +1,2 @@
+1	omprasad	50000	permenant
+2	gopal	30000	permenant

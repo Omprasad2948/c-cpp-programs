@@ -1,0 +1,6 @@
+this is first string
+this iis the second strig 
+this is the fourth string
+this is the fifth string 
+this is the sixth string
+10	omprasad		0
